@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/HoatDongForm.jsp=UTF-8
+encoding//src/com/hoatdong/beans/HoatDong.java=UTF-8
+encoding//src/com/hoatdong/controllers/ControllerServlet.java=UTF-8
+encoding//src/com/hoatdong/dao/HoatDongDAO.java=UTF-8
