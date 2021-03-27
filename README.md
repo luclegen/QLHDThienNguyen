@@ -1,2 +1,14 @@
-# QLHDThienNguyen
- QUẢN LÝ HOẠT ĐỘNG THIỆN NGUYỆN
+# QUẢN LÝ HOẠT ĐỘNG THIỆN NGUYỆN
+Dự án QUẢN LÝ HOẠT ĐỘNG THIỆN NGUYỆN dùng để xây dựng ứng dựng về việc quản lý của các hoạt động thiện nguyện. Dự án được hoạt động trên IDE Eclipse.
+
+## Thư mục db
+Chứa dữ liệu Database cần được import vào SQL Server.
+
+## Thư mục doc
+Chứa tài liệu về nội dung của dự án này.
+
+## Thư mục src
+Chứa mã nguồn.
+
+## Thư mục WebContent
+Chứa giao diện người dùng trên trình duyệt.
